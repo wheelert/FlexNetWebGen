@@ -1,0 +1,79 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+        <meta charset="utf-8" />
+        <title>FlexNetParser</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width" />
+        <link href="style.css" rel="stylesheet"/>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>
+
+
+	$( document ).ready(function() {
+		//console.log( "Document Loaded...!" );
+
+		$("table").click(function(){
+
+			$(this).find('tr').toggle();
+
+			if($(this).find('tr').length == 0){
+				alert("No licenses in use for this feature!");
+			}
+
+
+		});
+	});
+
+
+        </script>
+
+    </head>
+    <body>
+        <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title"><a href="/">FlexNet Web</a></p>
+                </div>
+                <div class="float-right">
+                    
+                    <nav>
+                        <ul id="menu">
+                            <li><a href="index.html">Update</a></li>
+                           <!-- <li><a href="">Login</a></li>-->
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>27000@LICENSESERVER</h1>
+                <h2>(  GIS  )</h2>
+            </hgroup>
+            
+        </div>
+    </section>
+
+            <section class="content-wrapper main-content clear-fix">
+           
+				###REPLACE###
+
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>Results Generated @ ###TIME###</p>
+                </div>
+            </div>
+        </footer>
+
+
+        
+    </body>
+</html>
