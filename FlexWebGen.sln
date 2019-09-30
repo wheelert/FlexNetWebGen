@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexWebGen", "FlexNetWebGen\FlexWebGen.csproj", "{C7B70F12-98F2-4B27-8E7F-927482A28BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B70F12-98F2-4B27-8E7F-927482A28BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B70F12-98F2-4B27-8E7F-927482A28BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B70F12-98F2-4B27-8E7F-927482A28BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B70F12-98F2-4B27-8E7F-927482A28BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A305A845-061D-4608-B7A8-2D55DEF195BD}
+	EndGlobalSection
+EndGlobal

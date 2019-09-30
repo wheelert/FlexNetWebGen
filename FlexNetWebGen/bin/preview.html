@@ -1,0 +1,44 @@
+  <head>
+        <meta charset="utf-8" />
+        <title>FlexNet Web - NHC SAC</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <link href="http://license-us/FlexNetWebGIS/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        <link href="http://license-us/FlexNetWebGIS/Content/css?v=KoDoh2l8TZsZjWzH_dcGMKvbiKzWj6O_ujafgCPxKgU1" rel="stylesheet"/>
+
+        <script src="http://license-us/FlexNetWebGIS/bundles/modernizr?v="></script>
+
+        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>
+
+
+	$( document ).ready(function() {
+		//console.log( "Document Loaded...!" );
+
+		$("table").click(function(){
+
+			$(this).find('tr').toggle();
+
+			if($(this).find('tr').length == 0){
+				alert("No licenses in use for this feature!");
+			}
+
+
+		});
+	});
+
+ $(function(){
+   $("#includedContent").load("file:///C:/Users/twheeler/source/repos/ConsoleApp1/ConsoleApp1/bin/Debug/temp.html", function(){
+        $(this).contents().unwrap();
+   }); 
+});
+
+        </script>
+
+    </head>
+	<body>
+		<div id="includedContent"></div>
+		
+	</body>
+</html>

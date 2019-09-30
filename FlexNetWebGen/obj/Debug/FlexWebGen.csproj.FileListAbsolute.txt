@@ -1,0 +1,12 @@
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\style.css
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\FlexNetParse.dll
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\FlexNetParse.pdb
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\FlexWebGen.csproj.CoreCompileInputs.cache
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\FlexWebGen.csproj.CopyComplete
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\FlexWebGen.exe.config
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\FlexWebGen.exe
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\FlexWebGen.pdb
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\FlexWebGen.exe
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\FlexWebGen.pdb
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\template.html
+C:\Users\twheeler\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\FlexWebGen.csprojAssemblyReference.cache
